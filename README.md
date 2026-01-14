@@ -1,33 +1,29 @@
-<p align="center">
-  Haii, I’m Mkeko! 
-  <br>I’m a coptic dev with a side of mental problems :idk:
-  <br>IM1 LOVVER :3
-</p>
+<div align="center">
+  <img src="puplic/snowwysillycat.png" width="130px" style="border-radius: 50%; border: 3px solid #FFB7C5;" alt="Profile Picture" />
+  <br />
+  <img src="puplic/snowwysillycat.svg" width="350px" alt="Maya" />
 
-<p align="center">
-  <strong>🌟 INTERESTS:</strong> F1, Cats, Programming, Gaming, Content Creation.
-</p>
+  ### マヤ 🐱🎀🩷
+  *she/her • 🇮🇩 • 🏳️‍⚧️*
 
-<p align="center">
-  <strong>💻 CURRENT PROJECTS:</strong> How to die.
-</p>
+  > **silly femboy • self-diagnosed AuDHD**
+  
 
-<p align="center">
-  <strong>🌐 FIND ME ONLINE:</strong>
-</p>
+  ---
 
-<p align="center">
-  <a href="https://www.roblox.com/users/3263752993/profile">Roblox</a> — Roblox<br>
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1212043905059790881?showDisplayName=true&animatedDecoration=true&theme=dark&borderRadius=12px)](https://discord.com/users/1212043905059790881)
 
-</p>
+  <br />
 
-<br />
+  <a href="https://wakatime.com/@snowwysillycat">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=snowwysillycat&layout=compact&bg_color=ffffff&title_color=FFB7C5&icon_color=FFB7C5&text_color=555555&border_color=FFB7C5&hide_title=true" alt="WakaTime Stats" />
+  </a>
 
-<p align="center">
-  <a href="#"><img width="50" src="me.png" alt="Profile Picture"></a>
-</p>
+  <br />
+  <br />
 
+  <a href="https://mkeko.xyz">
+    <img src="https://img.shields.io/badge/visit_my_portfolio_meow!-FFB7C5?style=for-the-badge&logo=icloud&logoColor=white" alt="Website" />
+  </a>
 
-<p align="center">
-  <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="Loading GIF"></a>
-</p>
+</div>
