@@ -4,7 +4,7 @@
   <img src="puplic/snowwysillycat.svg" width="240px" alt="Snowwysillycat" />
 
   ### マヤ 🐱🎀🩷
-  *he/him • 🇮🇩 • 🏳️‍⚧️*
+  *he/him • 🚧 • 🏳️‍⚧️*
 
   > **silly ig • self-diagnosed AuDHD**
   
