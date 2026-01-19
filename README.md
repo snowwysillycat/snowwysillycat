@@ -1,12 +1,12 @@
 <div align="center">
   <img src="puplic/snowwysillycat.png" width="130px" style="border-radius: 50%; border: 3px solid #FFB7C5;" alt="Profile Picture" />
   <br />
-  <img src="puplic/snowwysillycat.svg" width="350px" alt="Maya" />
+  <img src="puplic/snowwysillycat.svg" width="240px" alt="Snowwysillycat" />
 
   ### マヤ 🐱🎀🩷
-  *she/her • 🇮🇩 • 🏳️‍⚧️*
+  *he/him • 🇮🇩 • 🏳️‍⚧️*
 
-  > **silly femboy • self-diagnosed AuDHD**
+  > **silly ig • self-diagnosed AuDHD**
   
 
   ---
