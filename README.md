@@ -10,9 +10,6 @@
   
 
   ---
-
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1212043905059790881?showDisplayName=true&animatedDecoration=true&theme=dark&borderRadius=12px)](https://discord.com/users/1212043905059790881)
-
   <br />
 
   <a href="https://wakatime.com/@snowwysillycat">
