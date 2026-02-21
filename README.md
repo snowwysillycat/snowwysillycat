@@ -19,7 +19,7 @@
   <br />
   <br />
 
-  <a href="https://mkeko.xyz">
+  <a href="https://snowwy.is-a.dev">
     <img src="https://img.shields.io/badge/visit_my_portfolio_meow!-FFB7C5?style=for-the-badge&logo=icloud&logoColor=white" alt="Website" />
   </a>
 
