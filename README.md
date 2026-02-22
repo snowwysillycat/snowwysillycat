@@ -4,23 +4,16 @@
   <img src="puplic/snowwysillycat.svg" width="240px" alt="Snowwysillycat" />
 
   ### マヤ 🐱🎀🩷
-  *he/him • 🚧 • 🏳️‍⚧️*
+  𝓱𝓮/𝓱𝓲𝓶 *• 🚧*
 
-  > **silly ig • self-diagnosed AuDHD**
+  > **silly dum ig • self-diagnosed AuDHD**
   
 
   ---
   <br />
-
-  <a href="https://wakatime.com/@snowwysillycat">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=snowwysillycat&layout=compact&bg_color=ffffff&title_color=FFB7C5&icon_color=FFB7C5&text_color=555555&border_color=FFB7C5&hide_title=true" alt="WakaTime Stats" />
-  </a>
-
-  <br />
-  <br />
-
-  <a href="https://snowwy.is-a.dev">
-    <img src="https://img.shields.io/badge/visit_my_portfolio_meow!-FFB7C5?style=for-the-badge&logo=icloud&logoColor=white" alt="Website" />
-  </a>
+    
+[![wakatime](https://wakatime.com/badge/user/f9d69286-c5d4-4d1d-b402-cf38017bdeb7.svg)](https://wakatime.com/@f9d69286-c5d4-4d1d-b402-cf38017bdeb7)
+    
+[![Portfolio](https://img.shields.io/badge/visit_my_portfolio_meow!-FFB7C5?style=for-the-badge&logo=cookiecutter&logoColor=white)](YOUR_PORTFOLIO_URL_HERE)
 
 </div>
