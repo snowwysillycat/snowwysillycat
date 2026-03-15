@@ -8,12 +8,15 @@
 
   > **silly dum ig • self-diagnosed AuDHD**
   
+[![Portfolio](https://img.shields.io/badge/visit_my_portfolio!-FFB7C5?style=for-the-badge&logo=cookiecutter&logoColor=white)](https://snowwy.ia-a.dev)
 
   ---
   <br />
     
-[![wakatime](https://wakatime.com/badge/user/f9d69286-c5d4-4d1d-b402-cf38017bdeb7.svg)](https://wakatime.com/@f9d69286-c5d4-4d1d-b402-cf38017bdeb7)
-    
-[![Portfolio](https://img.shields.io/badge/visit_my_portfolio_meow!-FFB7C5?style=for-the-badge&logo=cookiecutter&logoColor=white)](https://snowwy.ia-a.dev)
+<a href="https://github.com/snowwysillycat/snowwysillycat"><img src="https://github-readme-streak-stats.herokuapp.com?user=snowwysillycat&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 
+
+[![wakatime](https://wakatime.com/badge/user/f9d69286-c5d4-4d1d-b402-cf38017bdeb7.svg)](https://wakatime.com/@f9d69286-c5d4-4d1d-b402-cf38017bdeb7)
+<br>
+<a herf="https://wakatime.com/@f9d69286-c5d4-4d1d-b402-cf38017bdeb7"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=snowwysillycat&langs_count=20&layout=compact&theme=transparent&hide_border=true&hide_title=true"/></a>
 </div>
