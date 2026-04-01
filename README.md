@@ -3,7 +3,7 @@
   <br />
   <img src="puplic/snowwysillycat.svg" width="240px" alt="Snowwysillycat" />
 
-  ### マヤ 🐱🎀🩷
+  ### スノーウィ
   𝓱𝓮/𝓱𝓲𝓶 *• 🚧*
 
   > **silly dum ig • self-diagnosed AuDHD**
